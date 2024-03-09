@@ -1,0 +1,13 @@
+Core Modules
+____________________
+1.OS__Operating System
+2.FS__File ystem
+3.HTTP
+4.Path
+5.Url
+
+
+3rdParty Modules
+___________________>All companies they developing modules 
+[Js files] all comnies..deploying ...NPM.js(global repository)
+

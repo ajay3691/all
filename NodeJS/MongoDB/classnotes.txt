@@ -1,0 +1,24 @@
+SQL - realtional database management System
+--We are storing data in the form of tables (rows and coloums)
+--scema based
+--memory wastage is very high
+
+Problm Statement
+__new methods to manage the flode of data
+--alternative to Relation database management System -SQl Database
+--
+SQL--Database
+    -Tables
+    -cols&rows
+    -colum
+    -Scema Based
+
+NoSQL--Database    -- mongoDb
+    -collection
+    -Document
+    -Field 
+    -Scema Less(optional)
+
+--open source, document based database Management system too that
+ store data in JSON-like format
+
